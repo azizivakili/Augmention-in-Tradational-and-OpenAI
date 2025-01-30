@@ -33,4 +33,11 @@ OpenAI's GPT models enable context-aware augmentation, making them ideal for uns
 GPT-based augmentation creates realistic, diverse data based on existing records, enhancing model training.
 
 
+### Why Both Are Needed?
+
+- Traditional methods are fast and reliable for structured data but can be limited in complexity.
+- GPT-based augmentation is powerful for generating complex, realistic scenarios but can be computationally expensive.
+- Combining both ensures efficient and high-quality augmentation for different types of data.
+
+
 Environment Setup: To begin project, follow these steps:
